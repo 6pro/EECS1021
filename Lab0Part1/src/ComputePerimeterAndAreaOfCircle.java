@@ -11,6 +11,7 @@ public class ComputePerimeterAndAreaOfCircle {
 		String name = in.nextLine();
 		double perimeter = r *2* 3.14;
 		double area = r*r*3.14;
+		
 		System.out.println(name+", your input circle with radius "+r+" has perimeter "+perimeter+" and area "+area);
 	}
 
